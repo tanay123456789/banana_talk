@@ -8,5 +8,8 @@ textarea{
 
 #output{
     border:1px solid black;
-    height:10vh
+    height:10vh;
+    width:80%;
+    margin:1rem;
+    padding:1rem;
 }

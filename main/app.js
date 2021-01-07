@@ -2,8 +2,13 @@ var btnTransalate=document.querySelector("#btn-transalate");
 var txtInput=document.querySelector("#txt-input");
 var outputDiv=document.querySelector("#output");
 
+
+//outputDiv.innerText="Tanay Pratap"
+console.log(outputDiv);
+
 function clickHandler(){
-    outputDiv.innerText="assffdgfggg"+txtInput.value;
+    outputDiv.innerText="ajssjsjsj"+txtInput.value;
+    
     
 };
 
